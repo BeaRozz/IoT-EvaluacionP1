@@ -1,0 +1,8 @@
+bash
+*.pyc
+*.pyo
+__pycache__/
+.idea/
+.vscode/
+.DS_Store
+*.log
